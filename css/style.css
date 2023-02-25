@@ -309,7 +309,7 @@ header {
 
 .my-services {
   background-color: var(--color-dark);
-  background-image: url(./img/services-bg9.jpg);
+  background-image: url(../img/services-bg9.jpg);
   background-size: cover;
   /* background-blend-mode: normal; */
   color: var(--color-light);
@@ -402,7 +402,7 @@ header {
 
 .my-work {
   background-color: var(--color-dark);
-  background-image: url(./img/services-bg.jpg);
+  background-image: url(../img/services-bg.jpg);
   color: var(--color-light);
   text-align: center;
 }
